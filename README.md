@@ -3,7 +3,6 @@ I list in this repository codes I use for severak tasks during my PhD. I will up
 
 ## Writing 
 - Transform .tex files to .docx file [Here](Latex-to-word.md)
-- Article and slides templates (coming soon)
 
 ## Data 
 - Extract tables from pdf [Here](table-pdf.md)
