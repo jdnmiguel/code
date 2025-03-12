@@ -1,4 +1,4 @@
-# Code Corner
+# Code 
 I list in this repository codes I use for severak tasks during my PhD. I will update it frequently. 
 
 ## Writing 
